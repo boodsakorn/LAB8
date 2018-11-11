@@ -31,7 +31,7 @@ import java.util.List;
 public class MySQLConnect {
     private final Activity main;
     private List<String> list;
-    private String URL ="http://192.168.0.101/",
+    private String URL ="http://192.168.137.61/",
             GET_URL = "lab8/get_post.php",
             SENT_URL = "lab8/sent_post.php",
             UPD_URL = "lab8/upd_post.php",
